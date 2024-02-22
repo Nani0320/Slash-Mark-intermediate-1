@@ -1,4 +1,4 @@
-# Give-Life-Predict-Blood-Donations
+Give-Life-Predict-Blood-Donations
 Project Give Life: Predict Blood Donations
 
 Project Description
@@ -13,14 +13,14 @@ To complete this Project, you need to know some Python, pandas, and logistic reg
 
 Project Tasks
 
-1. Inspecting transfusion.data file
-2. Loading the blood donations data
-3. Inspecting transfusion DataFrame
-4. Creating target column
-5. Checking target incidence
-6. Splitting transfusion into train and test datasets
-7. Selecting model using TPOT
-8. Checking the variance
-9. Log normalization
-10. Training the linear regression model
-11. Conclusion
+Inspecting transfusion.data file
+Loading the blood donations data
+Inspecting transfusion DataFrame
+Creating target column
+Checking target incidence
+Splitting transfusion into train and test datasets
+Selecting model using TPOT
+Checking the variance
+Log normalization
+Training the linear regression model
+Conclusion
